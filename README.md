@@ -1,4 +1,4 @@
-# Fee_Calculatod
+# Fee_Calculator
 
 install node_modules -
 ` npm install`
